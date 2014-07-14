@@ -1,6 +1,6 @@
 {
   "name": "emitter",
-  "repo": "component/emitter",
+  "repo": "matchdav/emitter",
   "description": "Event emitter",
   "keywords": [
     "emitter",
